@@ -55,6 +55,13 @@
         "istream": "cpp",
         "mutex": "cpp",
         "shared_mutex": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "charconv": "cpp",
+        "iomanip": "cpp",
+        "numbers": "cpp",
+        "span": "cpp",
+        "sstream": "cpp",
+        "variant": "cpp",
+        "format": "cpp"
     }
 }
